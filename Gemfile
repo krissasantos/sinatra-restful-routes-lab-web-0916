@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem 'learn-co', '~> 3.6', '>= 3.6.1'
 gem 'activerecord', :require => 'active_record'
 gem 'sinatra-activerecord', :require => 'sinatra/activerecord'
 
